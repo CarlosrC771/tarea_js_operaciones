@@ -37,8 +37,8 @@ document.getElementById("d").innerHTML = "El valor de d es :" + d;
 
 document.getElementById("sumar").innerHTML = "La suma de a y b es: " + suma;
 document.getElementById("restar").innerHTML = "La resta de b y c es: " + resta;
-document.getElementById("multiplicar").innerHTML = "La suma de c y d es: " + multi;
-document.getElementById("dividir").innerHTML = "La suma de d y a es: " + divis;
+document.getElementById("multiplicar").innerHTML = "La multiplicacion de c y d es: " + multi;
+document.getElementById("dividir").innerHTML = "La division de d y a es: " + divis;
 
 
 
